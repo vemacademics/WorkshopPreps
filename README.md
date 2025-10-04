@@ -5,6 +5,9 @@ Planning Content to be delivered during  Vema-Workshop
  -  TypeScript + Tailwind CSS for modern styling and scalability.
  -  UI components with ShadCN and Tailwind utilities. 
 
+## Postgres RDBMS
+ - Building a  SQL data storage for projects
+ - 
 ## Backend Stack
  - Building Restfull API in Django or FastAPI
  - Static Files Handling
